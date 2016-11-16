@@ -18,8 +18,8 @@ development:
   encoding: unicode
   database: Alexandria_development
   pool:     5
-  username: enter
-  password: 
+#  username: enter
+#  password: 
   template: template0
 
   # Connect on a TCP socket. Omitted by default since the client uses a
